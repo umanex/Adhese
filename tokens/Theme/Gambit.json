@@ -61,6 +61,22 @@
         "value": "{Core.Neutral.500}",
         "type": "color"
       }
+    },
+    "Action": {
+      "Background": {
+        "Default": {
+          "value": "{Core.Primary.400}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Core.Primary.500}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Core.Primary.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "sans-serif": {
