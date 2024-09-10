@@ -80,6 +80,10 @@
       "Primary": {
         "value": "{Brand.Soft beige}",
         "type": "color"
+      },
+      "Menu": {
+        "value": "{Core.Primary.400}",
+        "type": "color"
       }
     },
     "Text": {
