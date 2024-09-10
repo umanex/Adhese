@@ -1,0 +1,60 @@
+{
+  "Table": {
+    "Header": {
+      "Background": {
+        "Default": {
+          "value": "{Core.Background.Primary}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Core.Background.Primary}",
+          "type": "color"
+        }
+      },
+      "Text": {
+        "Default": {
+          "value": "{Core.Text.Muted}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Core.Neutral.50}",
+          "type": "color"
+        }
+      }
+    },
+    "Body": {
+      "Background": {
+        "Default": {
+          "value": "{Core.UI.White}",
+          "type": "color"
+        }
+      },
+      "Text": {
+        "Default": {
+          "value": "{Core.Text.Regular}",
+          "type": "color"
+        }
+      }
+    },
+    "Footer": {
+      "Background": {
+        "Default": {
+          "value": "{Core.UI.White}",
+          "type": "color"
+        }
+      }
+    },
+    "Row": {
+      "Background": {
+        "Default": {
+          "value": "{Core.UI.White}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Core.Background.Primary}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

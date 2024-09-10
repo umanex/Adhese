@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "Core",
+    "Theme/Adhese",
+    "Theme/Gambit",
+    "Components/Button",
+    "Components/Table"
+  ]
+}

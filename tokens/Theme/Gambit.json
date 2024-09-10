@@ -1,0 +1,74 @@
+{
+  "Core": {
+    "Primary": {
+      "50": {
+        "value": "#B3ECFF",
+        "type": "color"
+      },
+      "100": {
+        "value": "#80DFFF",
+        "type": "color"
+      },
+      "200": {
+        "value": "#4CD3FF",
+        "type": "color"
+      },
+      "300": {
+        "value": "#1AC6FF",
+        "type": "color"
+      },
+      "400": {
+        "value": "#00ADE6",
+        "type": "color"
+      },
+      "500": {
+        "value": "#0086B2",
+        "type": "color"
+      },
+      "600": {
+        "value": "#006080",
+        "type": "color"
+      },
+      "700": {
+        "value": "#003A4D",
+        "type": "color"
+      },
+      "800": {
+        "value": "#002633",
+        "type": "color"
+      },
+      "900": {
+        "value": "#00131A",
+        "type": "color"
+      }
+    },
+    "Background": {
+      "Primary": {
+        "value": "{Core.Neutral.50}",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "Regular": {
+        "value": "{Core.Neutral.900}",
+        "type": "color"
+      },
+      "Muted": {
+        "value": "{Core.Neutral.500}",
+        "type": "color"
+      }
+    }
+  },
+  "sans-serif": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  },
+  "Regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "Semibold": {
+    "value": "Semi Bold",
+    "type": "fontWeights"
+  }
+}
