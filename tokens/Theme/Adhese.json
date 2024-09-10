@@ -111,6 +111,12 @@
           "type": "color"
         }
       }
+    },
+    "UI": {
+      "Border": {
+        "value": "#DFDAD5",
+        "type": "color"
+      }
     }
   },
   "sans-serif": {

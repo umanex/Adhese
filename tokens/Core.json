@@ -46,10 +46,6 @@
       "White": {
         "value": "#FFF",
         "type": "color"
-      },
-      "Border": {
-        "value": "{Core.Neutral.200}",
-        "type": "color"
       }
     }
   },
@@ -127,6 +123,16 @@
     "xl": {
       "value": "18",
       "type": "fontSizes"
+    }
+  },
+  "Border": {
+    "Default": {
+      "value": {
+        "color": "{Core.UI.Border}",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border"
     }
   }
 }

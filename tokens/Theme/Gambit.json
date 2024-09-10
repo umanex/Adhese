@@ -77,6 +77,12 @@
           "type": "color"
         }
       }
+    },
+    "UI": {
+      "Border": {
+        "value": "{Core.Neutral.200}",
+        "type": "color"
+      }
     }
   },
   "sans-serif": {
