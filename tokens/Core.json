@@ -133,6 +133,12 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "None": {
+      "value": {
+        "width": "0px"
+      },
+      "type": "border"
     }
   }
 }
