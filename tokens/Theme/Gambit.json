@@ -50,20 +50,8 @@
       "Menu": {
         "value": "{Core.Primary.400}",
         "type": "color"
-      }
-    },
-    "Text": {
-      "Regular": {
-        "value": "{Core.Neutral.900}",
-        "type": "color"
       },
-      "Muted": {
-        "value": "{Core.Neutral.500}",
-        "type": "color"
-      }
-    },
-    "Action": {
-      "Background": {
+      "Action": {
         "Default": {
           "value": "{Core.Primary.400}",
           "type": "color"
@@ -76,6 +64,16 @@
           "value": "{Core.Primary.500}",
           "type": "color"
         }
+      }
+    },
+    "Text": {
+      "Regular": {
+        "value": "{Core.Neutral.900}",
+        "type": "color"
+      },
+      "Muted": {
+        "value": "{Core.Neutral.500}",
+        "type": "color"
       }
     },
     "UI": {
