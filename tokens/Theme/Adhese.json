@@ -114,6 +114,10 @@
       "Border": {
         "value": "#DFDAD5",
         "type": "color"
+      },
+      "Test": {
+        "value": "#000",
+        "type": "color"
       }
     }
   },
