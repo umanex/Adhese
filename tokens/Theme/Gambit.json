@@ -83,16 +83,20 @@
       }
     }
   },
-  "sans-serif": {
-    "value": "Inter",
-    "type": "fontFamilies"
+  "Font Family": {
+    "Sans serif": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
   },
-  "Regular": {
-    "value": "Regular",
-    "type": "fontWeights"
-  },
-  "Semibold": {
-    "value": "Semi Bold",
-    "type": "fontWeights"
+  "Font Weight": {
+    "Regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "Semibold": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    }
   }
 }

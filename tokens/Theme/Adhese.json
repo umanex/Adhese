@@ -1,38 +1,4 @@
 {
-  "Brand": {
-    "Warm black": {
-      "value": "#14060a",
-      "type": "color"
-    },
-    "Soft beige": {
-      "value": "#faf3ed",
-      "type": "color"
-    },
-    "Chocolate": {
-      "value": "#4b1914",
-      "type": "color"
-    },
-    "Sand": {
-      "value": "#f2e0c2",
-      "type": "color"
-    },
-    "Lime": {
-      "value": "#ccf545",
-      "type": "color"
-    },
-    "Pink": {
-      "value": "#ffb2d1",
-      "type": "color"
-    },
-    "Burgundy": {
-      "value": "#a30052",
-      "type": "color"
-    },
-    "Green": {
-      "value": "#00664a",
-      "type": "color"
-    }
-  },
   "Core": {
     "Primary": {
       "50": {
@@ -121,16 +87,20 @@
       }
     }
   },
-  "sans-serif": {
-    "value": "Neulis Sans",
-    "type": "fontFamilies"
+  "Font Family": {
+    "Sans serif": {
+      "value": "Neulis Sans",
+      "type": "fontFamilies"
+    }
   },
-  "Regular": {
-    "value": "Regular",
-    "type": "fontWeights"
-  },
-  "Semibold": {
-    "value": "Semi Bold",
-    "type": "fontWeights"
+  "Font Weight": {
+    "Regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "Semibold": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    }
   }
 }
