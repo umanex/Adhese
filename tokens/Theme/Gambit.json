@@ -1,102 +1,106 @@
 {
   "Core": {
-    "Primary": {
-      "50": {
-        "value": "#B3ECFF",
-        "type": "color"
-      },
-      "100": {
-        "value": "#80DFFF",
-        "type": "color"
-      },
-      "200": {
-        "value": "#4CD3FF",
-        "type": "color"
-      },
-      "300": {
-        "value": "#1AC6FF",
-        "type": "color"
-      },
-      "400": {
-        "value": "#00ADE6",
-        "type": "color"
-      },
-      "500": {
-        "value": "#0086B2",
-        "type": "color"
-      },
-      "600": {
-        "value": "#006080",
-        "type": "color"
-      },
-      "700": {
-        "value": "#003A4D",
-        "type": "color"
-      },
-      "800": {
-        "value": "#002633",
-        "type": "color"
-      },
-      "900": {
-        "value": "#00131A",
-        "type": "color"
-      }
-    },
-    "Background": {
+    "Color": {
       "Primary": {
-        "value": "{Core.Neutral.50}",
-        "type": "color"
-      },
-      "Menu": {
-        "value": "{Core.Primary.400}",
-        "type": "color"
-      },
-      "Action": {
-        "Default": {
-          "value": "{Core.Primary.400}",
+        "50": {
+          "value": "#B3ECFF",
           "type": "color"
         },
-        "Hover": {
-          "value": "{Core.Primary.500}",
+        "100": {
+          "value": "#80DFFF",
           "type": "color"
         },
-        "Active": {
-          "value": "{Core.Primary.500}",
+        "200": {
+          "value": "#4CD3FF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#1AC6FF",
+          "type": "color"
+        },
+        "400": {
+          "value": "#00ADE6",
+          "type": "color"
+        },
+        "500": {
+          "value": "#0086B2",
+          "type": "color"
+        },
+        "600": {
+          "value": "#006080",
+          "type": "color"
+        },
+        "700": {
+          "value": "#003A4D",
+          "type": "color"
+        },
+        "800": {
+          "value": "#002633",
+          "type": "color"
+        },
+        "900": {
+          "value": "#00131A",
+          "type": "color"
+        }
+      },
+      "Background": {
+        "Primary": {
+          "value": "{Core.Color.Neutral.50}",
+          "type": "color"
+        },
+        "Menu": {
+          "value": "{Core.Color.Primary.400}",
+          "type": "color"
+        },
+        "Action": {
+          "Default": {
+            "value": "{Core.Color.Primary.400}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Core.Color.Primary.500}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Core.Color.Primary.500}",
+            "type": "color"
+          }
+        }
+      },
+      "Text": {
+        "Regular": {
+          "value": "{Core.Color.Neutral.900}",
+          "type": "color"
+        },
+        "Muted": {
+          "value": "{Core.Color.Neutral.500}",
+          "type": "color"
+        }
+      },
+      "UI": {
+        "Border": {
+          "value": "{Core.Color.Neutral.200}",
           "type": "color"
         }
       }
     },
-    "Text": {
-      "Regular": {
-        "value": "{Core.Neutral.900}",
-        "type": "color"
+    "Typography": {
+      "Font family": {
+        "Sans serif": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        }
       },
-      "Muted": {
-        "value": "{Core.Neutral.500}",
-        "type": "color"
+      "Font weight": {
+        "Regular": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "Semibold": {
+          "value": "Semi Bold",
+          "type": "fontWeights"
+        }
       }
-    },
-    "UI": {
-      "Border": {
-        "value": "{Core.Neutral.200}",
-        "type": "color"
-      }
-    }
-  },
-  "Font Family": {
-    "Sans serif": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    }
-  },
-  "Font Weight": {
-    "Regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "Semibold": {
-      "value": "Semi Bold",
-      "type": "fontWeights"
     }
   }
 }
