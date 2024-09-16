@@ -1,60 +1,40 @@
 {
   "Component": {
     "Button": {
-      "Header": {
-        "Background": {
-          "Default": {
-            "value": "{Core.Color.Background.Primary}",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Core.Color.Background.Primary}",
-            "type": "color"
-          }
+      "Background": {
+        "Default": {
+          "value": "{Core.Color.Background.Primary}",
+          "type": "color"
         },
-        "Text": {
-          "Default": {
-            "value": "{Core.Color.Text.Muted}",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Core.Color.Neutral.50}",
-            "type": "color"
-          }
-        }
-      },
-      "Body": {
-        "Background": {
-          "Default": {
-            "value": "{Core.Color.UI.White}",
-            "type": "color"
-          }
+        "Hover": {
+          "value": "{Core.Color.Background.Primary}",
+          "type": "color"
         },
-        "Text": {
-          "Default": {
-            "value": "{Core.Color.Text.Regular}",
-            "type": "color"
-          }
+        "Focus": {
+          "value": "{Core.Color.Background.Primary}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Core.Color.Background.Primary}",
+          "type": "color"
         }
       },
-      "Footer": {
-        "Background": {
-          "Default": {
-            "value": "{Core.Color.UI.White}",
-            "type": "color"
-          }
-        }
-      },
-      "Row": {
-        "Background": {
-          "Default": {
-            "value": "{Core.Color.UI.White}",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Core.Color.Background.Primary}",
-            "type": "color"
-          }
+      "Text": {
+        "Default": {
+          "value": "{Core.Color.Text.Muted}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Core.Color.Neutral.50}",
+          "type": "color"
+        },
+        "Focus": {
+          "value": "{Core.Color.Neutral.50}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Core.Color.Neutral.50}",
+          "type": "color"
         }
       }
     }
