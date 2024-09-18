@@ -88,6 +88,24 @@
         "Muted": {
           "value": "{Foundation.Color.Neutral.500}",
           "type": "color"
+        },
+        "Action": {
+          "Default": {
+            "value": "{Foundation.Color.Neutral.50}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Foundation.Color.Neutral.50}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Foundation.Color.Neutral.50}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Foundation.Color.Neutral.100}",
+            "type": "color"
+          }
         }
       },
       "UI": {

@@ -18,15 +18,15 @@
         },
         "Text": {
           "Default": {
-            "value": "{Foundation.Color.Neutral.50}",
+            "value": "{Theme.Color.Text.Action.Default}",
             "type": "color"
           },
           "Hover": {
-            "value": "{Foundation.Color.Neutral.50}",
+            "value": "{Theme.Color.Text.Action.Hover}",
             "type": "color"
           },
           "Disabled": {
-            "value": "{Foundation.Color.Neutral.50}",
+            "value": "{Theme.Color.Text.Action.Disabled}",
             "type": "color"
           }
         }
