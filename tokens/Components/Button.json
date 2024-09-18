@@ -3,37 +3,37 @@
     "Button": {
       "Background": {
         "Default": {
-          "value": "{Core.Color.Background.Primary}",
+          "value": "{Theme.Color.Background.Primary}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Core.Color.Background.Primary}",
+          "value": "{Theme.Color.Background.Primary}",
           "type": "color"
         },
         "Focus": {
-          "value": "{Core.Color.Background.Primary}",
+          "value": "{Theme.Color.Background.Primary}",
           "type": "color"
         },
         "Disabled": {
-          "value": "{Core.Color.Background.Primary}",
+          "value": "{Theme.Color.Background.Primary}",
           "type": "color"
         }
       },
       "Text": {
         "Default": {
-          "value": "{Core.Color.Text.Muted}",
+          "value": "{Theme.Color.Text.Muted}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Core.Color.Neutral.50}",
+          "value": "{Foundation.Color.Neutral.50}",
           "type": "color"
         },
         "Focus": {
-          "value": "{Core.Color.Neutral.50}",
+          "value": "{Foundation.Color.Neutral.50}",
           "type": "color"
         },
         "Disabled": {
-          "value": "{Core.Color.Neutral.50}",
+          "value": "{Foundation.Color.Neutral.50}",
           "type": "color"
         }
       }

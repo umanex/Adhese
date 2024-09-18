@@ -4,21 +4,21 @@
       "Header": {
         "Background": {
           "Default": {
-            "value": "{Core.Color.Background.Primary}",
+            "value": "{Theme.Color.Background.Primary}",
             "type": "color"
           },
           "Hover": {
-            "value": "{Core.Color.Background.Primary}",
+            "value": "{Theme.Color.Background.Primary}",
             "type": "color"
           }
         },
         "Text": {
           "Default": {
-            "value": "{Core.Color.Text.Muted}",
+            "value": "{Theme.Color.Text.Muted}",
             "type": "color"
           },
           "Hover": {
-            "value": "{Core.Color.Neutral.50}",
+            "value": "{Foundation.Color.Neutral.50}",
             "type": "color"
           }
         }
@@ -26,13 +26,13 @@
       "Body": {
         "Background": {
           "Default": {
-            "value": "{Core.Color.UI.White}",
+            "value": "{Foundation.Color.UI.White}",
             "type": "color"
           }
         },
         "Text": {
           "Default": {
-            "value": "{Core.Color.Text.Regular}",
+            "value": "{Theme.Color.Text.Regular}",
             "type": "color"
           }
         }
@@ -40,7 +40,7 @@
       "Footer": {
         "Background": {
           "Default": {
-            "value": "{Core.Color.UI.White}",
+            "value": "{Foundation.Color.UI.White}",
             "type": "color"
           }
         }
@@ -48,11 +48,11 @@
       "Row": {
         "Background": {
           "Default": {
-            "value": "{Core.Color.UI.White}",
+            "value": "{Foundation.Color.UI.White}",
             "type": "color"
           },
           "Hover": {
-            "value": "{Core.Color.Background.Primary}",
+            "value": "{Theme.Color.Background.Primary}",
             "type": "color"
           }
         }
@@ -62,7 +62,7 @@
   "Table": {
     "Default": {
       "value": {
-        "color": "{Core.Color.UI.Border}",
+        "color": "{Theme.Color.UI.Border}",
         "width": "1px",
         "style": "solid"
       },
@@ -70,7 +70,7 @@
     },
     "None": {
       "value": {
-        "color": "{Core.Color.UI.Border}",
+        "color": "{Theme.Color.UI.Border}",
         "width": "0px",
         "style": "solid"
       },

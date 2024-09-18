@@ -1,5 +1,5 @@
 {
-  "Core": {
+  "Foundation": {
     "Color": {
       "Neutral": {
         "50": {
@@ -88,7 +88,7 @@
         "type": "borderRadius"
       },
       "Default": {
-        "value": "{Core.Border radius.3xl}",
+        "value": "{Foundation.Border radius.3xl}",
         "type": "borderRadius"
       }
     },
@@ -135,22 +135,22 @@
           "type": "fontFamilies"
         }
       }
-    }
-  },
-  "Border": {
-    "Default": {
-      "value": {
-        "color": "{Core.Color.UI.Border}",
-        "width": "1px",
-        "style": "solid"
-      },
-      "type": "border"
     },
-    "None": {
-      "value": {
-        "width": "0px"
+    "Border": {
+      "Default": {
+        "value": {
+          "color": "{Theme.Color.UI.Border}",
+          "width": "1px",
+          "style": "solid"
+        },
+        "type": "border"
       },
-      "type": "border"
+      "None": {
+        "value": {
+          "width": "0px"
+        },
+        "type": "border"
+      }
     }
   }
 }

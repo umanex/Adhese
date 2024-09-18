@@ -1,5 +1,5 @@
 {
-  "Core": {
+  "Theme": {
     "Color": {
       "Primary": {
         "50": {
@@ -49,20 +49,20 @@
           "type": "color"
         },
         "Menu": {
-          "value": "{Core.Color.Primary.400}",
+          "value": "{Theme.Color.Primary.400}",
           "type": "color"
         },
         "Action": {
           "Default": {
-            "value": "{Core.Color.Primary.400}",
+            "value": "{Theme.Color.Primary.400}",
             "type": "color"
           },
           "Hover": {
-            "value": "{Core.Color.Primary.500}",
+            "value": "{Theme.Color.Primary.500}",
             "type": "color"
           },
           "Active": {
-            "value": "{Core.Color.Primary.500}",
+            "value": "{Theme.Color.Primary.500}",
             "type": "color"
           }
         }
@@ -73,7 +73,7 @@
           "type": "color"
         },
         "Muted": {
-          "value": "{Core.Color.Neutral.500}",
+          "value": "{Foundation.Color.Neutral.500}",
           "type": "color"
         }
       },

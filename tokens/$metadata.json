@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "Core",
+    "Foundation",
     "Theme/Adhese",
     "Theme/Gambit",
     "Components/Button",
