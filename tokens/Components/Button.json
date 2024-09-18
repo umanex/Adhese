@@ -1,40 +1,34 @@
 {
   "Component": {
     "Button": {
-      "Background": {
-        "Default": {
-          "value": "{Theme.Color.Background.Primary}",
-          "type": "color"
+      "Primary": {
+        "Background": {
+          "Default": {
+            "value": "{Theme.Color.Background.Action.Default}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Theme.Color.Background.Action.Hover}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Theme.Color.Background.Action.Disabled}",
+            "type": "color"
+          }
         },
-        "Hover": {
-          "value": "{Theme.Color.Background.Primary}",
-          "type": "color"
-        },
-        "Focus": {
-          "value": "{Theme.Color.Background.Primary}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Theme.Color.Background.Primary}",
-          "type": "color"
-        }
-      },
-      "Text": {
-        "Default": {
-          "value": "{Theme.Color.Text.Muted}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Foundation.Color.Neutral.50}",
-          "type": "color"
-        },
-        "Focus": {
-          "value": "{Foundation.Color.Neutral.50}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Foundation.Color.Neutral.50}",
-          "type": "color"
+        "Text": {
+          "Default": {
+            "value": "{Foundation.Color.Neutral.50}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Foundation.Color.Neutral.50}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Foundation.Color.Neutral.50}",
+            "type": "color"
+          }
         }
       }
     }

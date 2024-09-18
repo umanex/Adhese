@@ -64,6 +64,19 @@
           "Active": {
             "value": "{Theme.Color.Primary.500}",
             "type": "color"
+          },
+          "Disabled": {
+            "value": "{Theme.Color.Primary.200}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
           }
         }
       },
