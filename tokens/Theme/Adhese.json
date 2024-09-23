@@ -88,6 +88,10 @@
         "Muted": {
           "value": "{Foundation.Color.Neutral.500}",
           "type": "color"
+        },
+        "Disabled": {
+          "value": "{Foundation.Color.Neutral.300}",
+          "type": "color"
         }
       },
       "UI": {
