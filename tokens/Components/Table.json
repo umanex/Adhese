@@ -56,6 +56,28 @@
             "type": "color"
           }
         }
+      },
+      "Cell": {
+        "Background": {
+          "Default": {
+            "value": "{Foundation.Color.UI.White}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Theme.Color.Background.Primary}",
+            "type": "color"
+          }
+        },
+        "Text": {
+          "Default": {
+            "value": "{Theme.Color.Text.Regular}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Theme.Color.Text.Regular}",
+            "type": "color"
+          }
+        }
       }
     }
   },
