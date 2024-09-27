@@ -155,11 +155,11 @@
       },
       "Text": {
         "Regular": {
-          "value": "#14060A",
+          "value": "{Theme.Color.Primary.800}",
           "type": "color"
         },
         "Muted": {
-          "value": "{Foundation.Color.Neutral.500}",
+          "value": "{Theme.Color.Primary.300}",
           "type": "color"
         },
         "Disabled": {
