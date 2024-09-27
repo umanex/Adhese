@@ -74,7 +74,7 @@
             "type": "color"
           },
           "Hover": {
-            "value": "{Theme.Color.Text.Regular}",
+            "value": "{Theme.Color.Text.Hover}",
             "type": "color"
           }
         }

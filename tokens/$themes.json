@@ -82,6 +82,7 @@
       "Theme.Color.Secondary.700": "903aad37426c347184f6d150fef1c6263b1cdc04",
       "Theme.Color.Secondary.800": "dabe822463815f5c210af253d6979cd3201b0de4",
       "Theme.Color.Secondary.900": "ea7b6c5daa7bcb06e050dab89941435b10a055c3",
+      "Theme.Color.Text.Hover": "0d3e30d4cb5fbb7e62db7f65dbedf8afb59d9bbe",
       "Component.Button.Primary.Background.Default": "588f14c9ce15bffd3f087631409c2ae9fbb095b0",
       "Component.Button.Primary.Background.Hover": "a15653ddcbd11dd27d80c9f9850a83749f8dd84f",
       "Component.Button.Primary.Background.Disabled": "874be507000b6ef33121ef53e9e84d18e837ec4e",

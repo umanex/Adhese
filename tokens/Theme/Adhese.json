@@ -158,6 +158,10 @@
           "value": "{Theme.Color.Primary.800}",
           "type": "color"
         },
+        "Hover": {
+          "value": "{Theme.Color.Primary.900}",
+          "type": "color"
+        },
         "Muted": {
           "value": "{Theme.Color.Primary.300}",
           "type": "color"
