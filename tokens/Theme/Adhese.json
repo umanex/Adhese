@@ -43,9 +43,51 @@
           "type": "color"
         }
       },
+      "Secondary": {
+        "50": {
+          "value": "#FFFEFD",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FEFDFB",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FDFAF8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FCF8F4",
+          "type": "color"
+        },
+        "400": {
+          "value": "#FBF5F1",
+          "type": "color"
+        },
+        "500": {
+          "value": "#FAF3ED",
+          "type": "color"
+        },
+        "600": {
+          "value": "#F8EEE5",
+          "type": "color"
+        },
+        "700": {
+          "value": "#F6E8DD",
+          "type": "color"
+        },
+        "800": {
+          "value": "#F3E3D5",
+          "type": "color"
+        },
+        "900": {
+          "value": "#F1DDCD",
+          "type": "color"
+        }
+      },
       "Background": {
         "Primary": {
-          "value": "#FAF3ED",
+          "value": "{Theme.Color.Secondary.500}",
           "type": "color"
         },
         "Menu": {
