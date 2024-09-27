@@ -90,6 +90,10 @@
           "value": "{Theme.Color.Secondary.500}",
           "type": "color"
         },
+        "Page": {
+          "value": "{Theme.Color.Secondary.300}",
+          "type": "color"
+        },
         "Menu": {
           "value": "{Theme.Color.Primary.400}",
           "type": "color"

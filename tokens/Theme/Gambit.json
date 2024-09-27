@@ -48,6 +48,10 @@
           "value": "{Foundation.Color.Neutral.50}",
           "type": "color"
         },
+        "Page": {
+          "value": "{Foundation.Color.Neutral.50}",
+          "type": "color"
+        },
         "Menu": {
           "value": "{Theme.Color.Primary.400}",
           "type": "color"
