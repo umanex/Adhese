@@ -94,7 +94,7 @@
           "value": "{Theme.Color.Primary.400}",
           "type": "color"
         },
-        "Action": {
+        "Dark": {
           "Default": {
             "value": "{Theme.Color.Primary.400}",
             "type": "color"
@@ -109,6 +109,33 @@
           },
           "Disabled": {
             "value": "{Theme.Color.Primary.200}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.4",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "Light": {
+          "Default": {
+            "value": "{Foundation.Color.UI.White}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Theme.Color.Secondary.300}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Theme.Color.Secondary.300}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Theme.Color.Secondary.300}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {

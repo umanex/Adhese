@@ -4,15 +4,15 @@
       "Primary": {
         "Background": {
           "Default": {
-            "value": "{Theme.Color.Background.Action.Default}",
+            "value": "{Theme.Color.Background.Dark.Default}",
             "type": "color"
           },
           "Hover": {
-            "value": "{Theme.Color.Background.Action.Hover}",
+            "value": "{Theme.Color.Background.Dark.Hover}",
             "type": "color"
           },
           "Disabled": {
-            "value": "{Theme.Color.Background.Action.Disabled}",
+            "value": "{Theme.Color.Background.Dark.Disabled}",
             "type": "color"
           }
         },
