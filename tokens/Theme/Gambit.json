@@ -107,6 +107,10 @@
           "value": "{Foundation.Color.Neutral.900}",
           "type": "color"
         },
+        "Hover": {
+          "value": "{Foundation.Color.Neutral.900}",
+          "type": "color"
+        },
         "Muted": {
           "value": "{Foundation.Color.Neutral.500}",
           "type": "color"
