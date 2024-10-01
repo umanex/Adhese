@@ -131,11 +131,11 @@
             "type": "color"
           },
           "Hover": {
-            "value": "{Theme.Color.Secondary.300}",
+            "value": "{Theme.Color.Secondary.100}",
             "type": "color"
           },
           "Active": {
-            "value": "{Theme.Color.Secondary.300}",
+            "value": "{Theme.Color.Secondary.200}",
             "type": "color"
           },
           "Disabled": {
