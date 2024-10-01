@@ -178,7 +178,7 @@
             "type": "color"
           },
           "Minimal": {
-            "value": "{Theme.Color.Secondary.300}",
+            "value": "{Theme.Color.Secondary.200}",
             "type": "color"
           }
         }
