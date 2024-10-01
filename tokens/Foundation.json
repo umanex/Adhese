@@ -159,7 +159,7 @@
     "Border": {
       "Default": {
         "value": {
-          "color": "{Theme.Color.UI.Border}",
+          "color": "{Theme.Color.UI.Border.Default}",
           "width": "1px",
           "style": "solid"
         },

@@ -173,8 +173,14 @@
       },
       "UI": {
         "Border": {
-          "value": "#DFDAD5",
-          "type": "color"
+          "Default": {
+            "value": "{Theme.Color.Secondary.500}",
+            "type": "color"
+          },
+          "Minimal": {
+            "value": "{Theme.Color.Secondary.300}",
+            "type": "color"
+          }
         }
       }
     },

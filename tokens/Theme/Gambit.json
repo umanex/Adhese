@@ -140,8 +140,14 @@
       },
       "UI": {
         "Border": {
-          "value": "{Foundation.Color.Neutral.200}",
-          "type": "color"
+          "Default": {
+            "value": "{Foundation.Color.Neutral.200}",
+            "type": "color"
+          },
+          "Minimal": {
+            "value": "{Foundation.Color.Neutral.100}",
+            "type": "color"
+          }
         }
       }
     },
