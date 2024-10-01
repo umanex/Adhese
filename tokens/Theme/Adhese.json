@@ -45,43 +45,43 @@
       },
       "Secondary": {
         "50": {
-          "value": "#FFFEFD",
+          "value": "#FEFBF7",
           "type": "color"
         },
         "100": {
-          "value": "#FEFDFB",
+          "value": "#FCF8F1",
           "type": "color"
         },
         "200": {
-          "value": "#FDFAF8",
+          "value": "#FAF2E5",
           "type": "color"
         },
         "300": {
-          "value": "#FCF8F4",
+          "value": "#F7ECDA",
           "type": "color"
         },
         "400": {
-          "value": "#FBF5F1",
+          "value": "#F5E6CE",
           "type": "color"
         },
         "500": {
-          "value": "#FAF3ED",
+          "value": "#F2E0C2",
           "type": "color"
         },
         "600": {
-          "value": "#F8EEE5",
+          "value": "#EFDAB6",
           "type": "color"
         },
         "700": {
-          "value": "#F6E8DD",
+          "value": "#EDD4AA",
           "type": "color"
         },
         "800": {
-          "value": "#F3E3D5",
+          "value": "#EACE9F",
           "type": "color"
         },
         "900": {
-          "value": "#F1DDCD",
+          "value": "#E8C893",
           "type": "color"
         }
       },
@@ -91,7 +91,7 @@
           "type": "color"
         },
         "Page": {
-          "value": "{Theme.Color.Secondary.300}",
+          "value": "{Theme.Color.Secondary.100}",
           "type": "color"
         },
         "Menu": {
