@@ -78,25 +78,23 @@
             "type": "color"
           }
         }
+      },
+      "Default": {
+        "value": {
+          "color": "{Theme.Color.UI.Border}",
+          "width": "1px",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "None": {
+        "value": {
+          "color": "{Theme.Color.UI.Border}",
+          "width": "0px",
+          "style": "solid"
+        },
+        "type": "border"
       }
-    }
-  },
-  "Table": {
-    "Default": {
-      "value": {
-        "color": "{Theme.Color.UI.Border}",
-        "width": "1px",
-        "style": "solid"
-      },
-      "type": "border"
-    },
-    "None": {
-      "value": {
-        "color": "{Theme.Color.UI.Border}",
-        "width": "0px",
-        "style": "solid"
-      },
-      "type": "border"
     }
   }
 }
