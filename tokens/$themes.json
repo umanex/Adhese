@@ -6,8 +6,7 @@
       "Theme/Adhese": "enabled",
       "Components/Table": "enabled",
       "Components/Button": "enabled",
-      "Foundation": "enabled",
-      "Components/Dropdown": "disabled"
+      "Foundation": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -116,8 +115,7 @@
       "Theme/Gambit": "enabled",
       "Components/Table": "enabled",
       "Components/Button": "enabled",
-      "Foundation": "enabled",
-      "Components/Dropdown": "disabled"
+      "Foundation": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
